@@ -1,0 +1,14 @@
+// breakpoints
+$tablets: 768px;
+$phones: 480px;
+
+// media import
+@import "./layout/media.scss";
+
+// reset imports
+@import "./layout/fonts.scss";
+@import "./layout/reset.scss";
+
+//blocks
+@import "./blocks/section-footer/slick.scss";
+@import "../../node_modules/swiper/swiper-bundle.css";
